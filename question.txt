@@ -1,0 +1,9 @@
+1. unique category list print
+2. only show the product name under a particualr category ,
+3. only show the product name under a particualr category and a particular price range.
+4. show the total price of the products of electronics category.
+5. group the product and display the name according to their rating.
+6. list all the products with their price
+7. only change the price of one product not their index.
+
+
